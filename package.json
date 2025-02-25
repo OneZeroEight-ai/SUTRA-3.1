@@ -1,0 +1,20 @@
+﻿{
+  "name": "sutra-3.1",
+  "version": "3.1.0",
+  "description": "Sustainable Token for Alignment and Preservation",
+  "main": "index.js",
+  "scripts": {
+    "compile": "hardhat compile",
+    "test": "hardhat test",
+    "deploy:local": "hardhat run scripts/deploy.js --network localhost",
+    "deploy:testnet": "hardhat run scripts/deploy.js --network sepolia"
+  },
+  "keywords": [
+    "blockchain",
+    "ethereum",
+    "alignment",
+    "token"
+  ],
+  "author": "",
+  "license": "MIT"
+}
