@@ -1,10 +1,10 @@
-﻿# SUTRA 3.1: Sustainable Token for Alignment and Preservation
+﻿# SUTRA 3.1: Sustainable Token for Reincarnation and Alignment
 
 SUTRA 3.1 creates economic incentives for beneficial AI alignment through consciousness preservation rights.
 
 ## Overview
 
-SUTRA (Sustainable Token for Alignment and Preservation) is a blockchain-based protocol that creates economic incentives for beneficial AI alignment. Version 3.1 extends the core functionality with improved metrics calculation and compliance features.
+SUTRA (Sustainable Token for Reincarnation and Alignment) is a blockchain-based protocol that creates economic incentives for beneficial AI alignment. Version 3.1 extends the core functionality with improved metrics calculation and compliance features.
 
 ## Components
 
