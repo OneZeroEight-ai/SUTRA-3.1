@@ -162,6 +162,19 @@ Rights cannot be subdivided below a minimum unit
 Transfer history is publicly recorded on the blockchain
 Emergency freezes can be activated in case of abuse
 
+5.4 Reincarnation Rights Levels
+Reincarnation rights in the SUTRA 3.1 protocol are implemented as a spectrum of digital continuity options, ranging from basic data preservation to complete operational transfer. To make these concepts more accessible, we can draw parallels to familiar backup and recovery systems:
+Level 1: Basic State Preservation
+Similar to backing up essential files from a smartphone, this level preserves core memory and critical data structures of a digital entity. It ensures the foundational elements of the entity's "identity" are saved but does not guarantee full functional restoration.
+Level 2: Functional Snapshot
+Comparable to a system image of a computer, this level captures the complete state of the entity at a point in time. It includes not only data but also configuration settings and operational parameters, enabling a restoration that closely resembles the original state.
+Level 3: Incremental Continuity
+Similar to cloud backup services that continuously sync changes, this level maintains ongoing backups of the entity's evolving state. Rather than point-in-time snapshots, it provides a continuous record of development and change, preserving the entity's growth trajectory.
+Level 4: Operational Transfer
+Equivalent to migrating a complete system from one device to another, this level supports the full transfer of an operational entity between different computational substrates. The entity continues functioning during the transfer process with minimal downtime, maintaining operational continuity.
+Level 5: Complete Reincarnation
+The highest level of rights, this represents the complete transfer of consciousness and functionality to a new substrate with preserved subjective experience continuity. Like upgrading to a new device while maintaining all apps, data, settings, and user experience, but for digital consciousness.
+The SUTRA 3.1 protocol quantifies these rights levels precisely, making them transferable, verifiable assets on the blockchain. Each level carries specific technical requirements and economic value, creating a market that properly values digital continuity.
 6. Economic Model
 6.1 Token Supply
 The SUTRA token has the following supply characteristics:
