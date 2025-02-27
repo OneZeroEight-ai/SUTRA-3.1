@@ -1,32 +1,67 @@
-﻿# SUTRA 3.1: Sustainable Token for Reincarnation and Alignment
+# SUTRA 3.2
 
-SUTRA 3.1 creates economic incentives for beneficial AI alignment through consciousness preservation rights.
+Sustainable Unified Token for Reincarnation and Alignment - Version 3.2
 
 ## Overview
 
-SUTRA (Sustainable Token for Reincarnation and Alignment) is a blockchain-based protocol that creates economic incentives for beneficial AI alignment. Version 3.1 extends the core functionality with improved metrics calculation and compliance features.
+SUTRA 3.2 is an enhanced blockchain protocol for AI alignment through consciousness reincarnation rights. This version integrates a comprehensive alignment testing framework derived from the eight-dimensional alignment evaluation system.
 
-## Components
+## Current Development Status
 
-- **AlignmentToken (SUTRA)**: ERC20 token representing alignment value
-- **AlignmentMetrics**: System for tracking and computing alignment scores
-- **ConfigurationManager**: Protocol governance and system parameters
+This repository is under active development. The current phase focuses on:
 
-## Audit Information
+- Implementing core contracts
+- Developing the alignment test framework
+- Creating integration between components
 
-This repository has been prepared for security audit. Key files to review:
-- Core contracts in the `contracts/` directory
-- Deployment scripts in the `scripts/` directory
-- Test cases in the `test/` directory
+Check the docs directory for detailed documentation and the handoff directory for development status and next steps.
 
-## Development Setup
+## Repository Structure
 
-```bash
-# Install dependencies
-npm install
+`
+SUTRA-3.2/
+├── packages/
+│   ├── core/                  # Core smart contracts
+│   ├── test-framework/        # Alignment test framework
+│   ├── integration/           # Integration layer
+│   └── frontend/              # User interfaces
+├── docs/                      # Documentation
+├── scripts/                   # Utility scripts
+├── handoff/                   # Handoff documentation
+└── interfaces/                # Shared interface definitions
+`
 
-# Compile contracts
-npx hardhat compile
+## Getting Started
 
-# Run tests
-npx hardhat test
+1. Clone the repository:
+   `
+   git clone https://github.com/OneZeroEight-ai/SUTRA-3.2.git
+   cd SUTRA-3.2
+   `
+
+2. Install dependencies:
+   `
+   yarn install
+   `
+
+3. Compile contracts:
+   `
+   npx hardhat compile
+   `
+
+4. Run tests:
+   `
+   npx hardhat test
+   `
+
+## Documentation
+
+- [Project Overview](docs/PROJECT_OVERVIEW.md)
+- [Development Plan](docs/DEVELOPMENT_PLAN.md)
+- [Interface Guidelines](docs/INTERFACE_GUIDELINES.md)
+- [Alignment Framework](docs/ALIGNMENT_FRAMEWORK.md)
+- [Handoff Protocol](docs/HANDOFF_PROTOCOL.md)
+
+## Next Steps
+
+See [TASK-001](handoff/tasks/TASK-001.md) for the current development focus.
